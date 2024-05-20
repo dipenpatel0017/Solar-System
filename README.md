@@ -27,3 +27,39 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox).
 1. Clone the repository:
    ```sh
    git clone https://github.com/dipenpatel0017/solar-system.git
+
+## Usage
+Once you open the index.html file, you will see the main interface of the Solar System project. Use the controls to interact with the simulation.
+
+## Project Structure
+Here is a brief overview of the project's structure:
+solar-system/
+├── css/                # CSS files for styling
+│   └── styles.css
+├── js/                 # JavaScript files
+│   └── main.js
+├── assets/             # Assets (images, data files, etc.)
+│   └── ...
+├── index.html          # Main HTML file
+├── README.md           # This README file
+
+## Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+## Steps to Contribute
+1.Fork the Project
+2.Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3.Commit your Changes (git commit -m 'Add some AmazingFeature')
+4.Push to the Branch (git push origin feature/AmazingFeature)
+5.Open a Pull Request
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+# Contact
+Project Link: https://github.com/dipenpatel0017/solar-system
+
+Feel free to customize this README file further to fit your project's specific details and requirements.
+
+ ## OUTPUT:-
+
