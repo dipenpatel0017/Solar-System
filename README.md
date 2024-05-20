@@ -56,10 +56,13 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
-# Contact
+## Contact
 Project Link: https://github.com/dipenpatel0017/solar-system
 
 Feel free to customize this README file further to fit your project's specific details and requirements.
 
  ## OUTPUT:-
+
+ ![image](https://github.com/dipenpatel0017/Solar-System/assets/154975783/67cdb13f-da46-4df1-b671-0a615c7d4fa9)
+
 
