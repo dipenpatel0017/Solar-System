@@ -21,7 +21,7 @@ The Solar System project is a web-based visualization tool that models the plane
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
-Make sure you have a modern web browser installed (e.g., Chrome, Firefox).
+Make sure you have a modern web browser installed (e.g., Chrome, Firefox , windoows(edge).
 
 ### Installation Steps
 1. Clone the repository:
@@ -57,7 +57,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Project Link: https://github.com/dipenpatel0017/solar-system
+Project Link: https://github.com/dipenpatel0017/solar-system.
 
 Feel free to customize this README file further to fit your project's specific details and requirements.
 
